@@ -1,1 +1,2 @@
 print("Kacper, Kacper, wielki cwaniak, zjadł kanapkę, uciekł z nią do parku, a tam spotkał kota, który chciał mu ją zabrać, ale Kacper był szybszy i uciekł z kanapką do domu.")
+print("Ola była głodna, więc postanowiła zrobić sobie kanapkę z serem i szynką. Kiedy skończyła, usiadła na kanapie i zaczęła jeść swoją kanapkę, ale nagle usłyszała hałas za oknem. Okazało się, że to Kacper, który przyszedł po swoją kanapkę. Ola była zaskoczona, ale postanowiła podzielić się swoją kanapką z Kacprem.")
